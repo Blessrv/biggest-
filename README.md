@@ -21,7 +21,6 @@ public class BiggestNumber
 		}
 		else
 		{
-			System.out.println("Largest s:"+z);
 		}
 	}
 }
